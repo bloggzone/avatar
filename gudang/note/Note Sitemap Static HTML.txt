@@ -1,0 +1,6 @@
+
+Cara edit domain sitemap static HTML :
+
+- Open "sitemap.xml" with sublime text 3 atau text editor.
+- Search and replace "http://domainku.com/" dengan domain static html yang mas punya.
+- jalankan fungsi upload lagi.

@@ -1,0 +1,49 @@
+
+Proxy Config
+===============
+
+Cara menggunakan fitur Proxy pada Shuriken mod.
+- Edit file "gudang/proxy_list.txt"
+- Masukan proxy dengan penulisan seperti contoh di bawah.
+- Save
+
+NOTE : Pastikan teman - teman menulis type proxy http atau sock dengan benar
+__
+
+
+http Proxy :
+
+http://X.X.X.X:Y
+
+atau include username password
+
+http://username:password@X.X.X.X:YY
+
+___
+
+
+Sock Proxy : 
+
+socks5://X.X.X.X:Y
+
+atau include username password
+
+socks5://username:password@X.X.X.X:YY
+
+___
+
+Keterangan :
+
+username 	= username proxy
+password 	= password proxy
+X.X.X.X 	= IP
+YYY 		= PORT
+
+___
+
+Free http proxy bisa temen - temen cari di :
+
+http://www.freeproxylists.net/?c=&pt=80&pr=&a%5B%5D=0&a%5B%5D=1&a%5B%5D=2&u=80
+
+Check IP : https://api.ipify.org?format=json
+

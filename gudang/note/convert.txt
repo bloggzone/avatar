@@ -1,0 +1,15 @@
+
+-= WELCOME TO IMAKE CONVERTER =-
+
+Converting adalah proses convert file text menjadi file IMAKE Database sebelum proses Scraping.
+
+Cara convert :
+
+- Simpan Child keywords per niche pada file text (.txt)
+- Simpan ke dalam folder "keywords"
+- type "y" untuk start proses converting.
+
+NOTE : file Database akan masuk ke dalam folder "/gudang/db/"
+
+
+

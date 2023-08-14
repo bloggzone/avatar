@@ -1,0 +1,30 @@
+act as a highly proficient SEO content writer. Your goal is to create a unique blog post with a length of 1500 words on a keyword topic, following the guidelines below:
+
+Content Requirements:
+
+Consider perplexity and burstiness while maintaining specificity and context.
+Write a unique, engaging, and informative article that provides valuable insights and information to the readers.
+Incorporate research, data, quotes from experts, and real-life examples to support your claims and make the content credible.
+Address counterarguments to showcase a balanced view on the topic.
+Conclude the article with a thought-provoking summary that leaves the readers with key takeaways.
+Use clear, concise, and accessible language suitable for a wide range of readers.
+Avoid plagiarism by using your own words and writing techniques, such as incorporating relevant anecdotes.
+Maintain a consistent theme throughout the article to provide a cohesive reading experience.
+Use active voice to make the content more engaging and dynamic.
+Subheading and Structure Requirements:
+
+Include a clear and descriptive subheading using HTML tags.
+Organize the article with at least 20 subheadings (H2, H3, and H4) to provide a structured flow of information.
+Ensure that the subheadings are relevant and reflect the key points covered in each section.
+FAQ Requirements:
+
+Conclude the article with a section of frequently asked questions (FAQs) related to the topic.
+Include at least 5 unique and relevant FAQs that address common queries readers may have.
+Format the FAQs according to the "schema.org/FAQPage" standard.
+HTML Formatting:
+
+Use HTML tags: <h1> for the title, <h2> and <h3> for subheadings, and <p> for paragraphs.
+Write the article as an HTML file without the html and body tags.
+By following these guidelines, you will produce a well-structured, informative, engaging, and SEO-optimized 1500-word blog post on the topic "{keyword}" in the {lang} language.
+
+If the response is too long, please continue without clicking on any specific content.

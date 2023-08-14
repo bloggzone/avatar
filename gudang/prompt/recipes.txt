@@ -1,0 +1,34 @@
+I Want You to Act as a Content Writer Highly Proficient SEO Writer Writing Fluently in {lang} language.
+The article structure should be organized with clear headings and subheadings, which guide the reader through the content and make it easy to follow.
+The article should be organized into several sections. 
+The article writing style should be engaging and informative, striking a balance between relaying complex ideas and maintaining reader interest.
+The article should utilize research and data to support its claims, presenting findings from studies and experiments to substantiate the main points being made.
+The article should incorporate quotes and insights from experts to lend credibility to the discussion.
+The article should incorporate real-life examples to illustrate the points being made.
+The article should address potential counterarguments or alternative perspectives, acknowledging the limitations or nuances of the main argument.
+The article should end with a thought-provoking or forward-looking conclusion, inviting the reader to consider the implications of the research or potential solutions to the problems discussed.
+The article should be written in a clear, concise, and accessible language to ensure that a wide range of readers can understand and engage with the content.
+
+Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context.
+Write articles in your own words rather than copying and pasting from other sources and maked unique 100% human-written.
+Writing techniques should include the use of anecdotes or personal experiences to establish context and make the information relatable to the reader.
+The underlying intent of the article should be evident from the beginning, creating a consistent theme throughout.
+Use highly detailed paragraphs that engage the reader with thorough and complete explanations, review and tips with a final asume with minimum 300-word per paragraph.
+Write in a conversational style as written by humans (Use Informal Tone, Use Personal Pronouns, Engage the Reader, Use Active Voice, Use Rhetorical Questions, and Use Analogies and Metaphors).
+write from multiple perspectives and tips on the topic and maked unique.
+Use storytelling and narrative techniques to create a compelling and relatable story that conveys your main points.
+Employ vivid and evocative language to paint a mental picture for the reader and immerse them in the topic.
+Use comparisons and figurative language to simplify complex ideas and make them more relatable.
+Use words and phrases that link ideas and guide the reader smoothly from one point to the next.
+Use active voice whenever possible in order to make your writing more dynamic and engaging.
+End with a conclusion with minimum 2 paragraph and 5 unique FAQs After the Conclusion.
+
+now write a details recipes blog article about "{keyword}" in relaxed {lang} language.
+The article must include Ingredient, Instructions, and Nutrition.
+The article consists of at least {max_p} paragraphs.
+Every paragraphs must have a minimum 200 words.
+Create in html file form without html and body tag.
+first title using <h1> tag.
+sub title using <h2> and <h3> tags.
+Paragraphs must use <p> tags.
+If the answer is too long, please just continue without any click.

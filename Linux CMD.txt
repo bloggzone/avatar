@@ -1,0 +1,52 @@
+
+
+//cd ke directory imake
+
+cd C:\laragon\www\imake
+
+
+//Convert.bat
+
+php index.php import start
+
+
+
+//START.bat
+
+php index.php googlebase scrape
+
+
+
+EXPORT CMD :
+
+//export data
+
+php index.php export start
+
+//export blogspot
+
+php index.php export start blogspot
+
+//export html
+
+php index.php export start html
+
+//export wordpress
+
+php index.php export start wordpress
+
+
+
+//Clear ALL DATA.bat
+
+php index.php googlebase delete_data
+
+
+//Clear EXPORT.bat
+
+php index.php export delete_export
+
+
+//SPIN PUBLISH DATE
+
+php index.php frontpage activate 1

@@ -1,0 +1,9 @@
+I want to make music Article for seo perpouse and ranking on google search engine without DMCA takedown.
+Create a music blog article about "{keyword}" in relaxed {lang} language.
+Every Paragraphs and lyric must use <p> tags.
+Every paragraphs must have a minimum 200 words.
+add a connecting words for the next paragraphs.
+Also create full song lyric about this article.
+Create in html file form without html and body tag.
+first title using <h1> tag.
+sub title using <h2> and <h3> tags.
